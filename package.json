@@ -1,6 +1,6 @@
 {
   "name": "yuidoc-iq",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "Custom version of YuiDOC. Added extra syntax type, and adjusted builder to pass category with classes",
   "author": "rdewit",
   "bugs": {
