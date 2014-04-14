@@ -1,12 +1,21 @@
+YUIDOC Marviq Version
+======================
+
+This is a custom version of YUIDOC, adjusted by Raymond to work better with a
+combination of CoffeeScript and JavaScript files. Also the builder is enhanced to
+include the category when populating the classes so this can be used in the template.
+
+
+
 YUIDoc Doc parser
 =================
 
-YUIDoc is a [Node.js](http://nodejs.org/) application used at build time to 
-generate API documentation for JavaScript code. YUIDoc is comment-driven and supports a wide 
-range of JavaScript coding styles. The output of YUI Doc is API documentation formatted as a 
-set of HTML pages including information about methods, properties, custom events and 
+YUIDoc is a [Node.js](http://nodejs.org/) application used at build time to
+generate API documentation for JavaScript code. YUIDoc is comment-driven and supports a wide
+range of JavaScript coding styles. The output of YUI Doc is API documentation formatted as a
+set of HTML pages including information about methods, properties, custom events and
 inheritance for JavaScript objects. YUIDoc was orignally written for the YUI Project;
-it uses YUI JavaScript and CSS in the generated files and it supports common YUI 
+it uses YUI JavaScript and CSS in the generated files and it supports common YUI
 conventions like Custom Events. That said, it can be used easily and productively on non-YUI code.
 
 Current Build Status
@@ -26,7 +35,7 @@ Documentation
    * [User Guides](http://yui.github.com/yuidoc/)
    * [API Docs](http://yui.github.com/yuidoc/api/)
    * [Support Mailing List](https://groups.google.com/forum/#!forum/yuidoc)
-   
+
 Released under the YUI BSD License
 ----------------------------------
 
