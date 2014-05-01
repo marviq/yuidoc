@@ -97,6 +97,11 @@
     "type": "git",
     "url": "https://github.com/marviq/yuidoc-iq.git"
   },
+
+  "publishConfig": {
+    "registry": "http://npm.marviq.net:5984/registry/_design/app/_rewrite"
+  },
+
   "yuidoc": {
     "name": "YUIDoc",
     "logo": "http://yuilibrary.com/img/yui-logo.png",
