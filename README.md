@@ -1,6 +1,8 @@
 YUIDOC Marviq Version
 ======================
 
+## NOTE: Development on this fork has been discontinued and its published npm package deprecated.  Newly generated [Backbone Application Template web apps](https://github.com/marviq/generator-bat) will, as of version `1.0.0`, no longer install this dependency. Please use the [stock version](https://github.com/yui/yuidoc) instead.
+
 This is a custom version of YUIDOC, adjusted by Raymond to work better with a
 combination of CoffeeScript and JavaScript files. Also the builder is enhanced to
 include the category when populating the classes so this can be used in the template.
@@ -18,10 +20,6 @@ inheritance for JavaScript objects. YUIDoc was orignally written for the YUI Pro
 it uses YUI JavaScript and CSS in the generated files and it supports common YUI
 conventions like Custom Events. That said, it can be used easily and productively on non-YUI code.
 
-Current Build Status
---------------------
-
-[![Build Status](https://secure.travis-ci.org/yui/yuidoc.png?branch=master)](http://travis-ci.org/yui/yuidoc)
 
 Installation
 ------------
